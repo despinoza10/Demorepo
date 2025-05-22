@@ -46,6 +46,7 @@ def make_move(board, row, col, player):
     if board[row][col] != " ":
         raise ValueError("The cell is already occupied.")
     board[row][col] = player
+    
 # Function to get the computer's move
 def get_computer_move(board):
     moves = get_available_moves(board)
