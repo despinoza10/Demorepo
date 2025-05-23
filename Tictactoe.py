@@ -2,6 +2,11 @@
 # Importing the random module
 import random
 # Function to print the board
+
+#Create a class for the game
+class wrongcode():
+    print("This is a wrong code")
+
 def print_board(board):
     print("Current board:")
     for row in board:
