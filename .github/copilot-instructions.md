@@ -3,7 +3,7 @@
 
 ## Style Guide
 - Use snake_case for variable and function names.
-- Use PascalCase for class names.
+- Use `PascalCase` (also known as UpperCamelCase) for class names.
 - Include docstrings for all functions and classes.
 - Limit line length to 79 characters.
 - Prefer list comprehensions over traditional loops for creating lists.
