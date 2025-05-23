@@ -1,4 +1,4 @@
-<!-- 
+
 # .github/copilot-instructions.md
 
 ## Style Guide
@@ -21,4 +21,4 @@
 - Generate code snippets that follow the project's style guide.
 - Avoid suggesting the use of global variables.
 - Prefer list comprehensions for creating lists.
-- Provide inline comments explaining complex code sections. -->
+- Provide inline comments explaining complex code sections.
